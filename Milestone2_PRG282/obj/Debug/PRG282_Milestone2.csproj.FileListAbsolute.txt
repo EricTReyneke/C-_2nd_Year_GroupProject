@@ -1,0 +1,15 @@
+C:\Users\eric2\Documents\Eric Reyneke\2nd Year\PRG282\Milestone2_PRG282\bin\Debug\PRG282_Milestone2.exe.config
+C:\Users\eric2\Documents\Eric Reyneke\2nd Year\PRG282\Milestone2_PRG282\bin\Debug\PRG282_Milestone2.exe
+C:\Users\eric2\Documents\Eric Reyneke\2nd Year\PRG282\Milestone2_PRG282\bin\Debug\PRG282_Milestone2.pdb
+C:\Users\eric2\Documents\Eric Reyneke\2nd Year\PRG282\Milestone2_PRG282\obj\Debug\PRG282_Milestone2.csproj.AssemblyReference.cache
+C:\Users\eric2\Documents\Eric Reyneke\2nd Year\PRG282\Milestone2_PRG282\obj\Debug\PRG282_Milestone2.PresentationLayer.frmLogin.resources
+C:\Users\eric2\Documents\Eric Reyneke\2nd Year\PRG282\Milestone2_PRG282\obj\Debug\PRG282_Milestone2.PresentationLayer.frmMenu.resources
+C:\Users\eric2\Documents\Eric Reyneke\2nd Year\PRG282\Milestone2_PRG282\obj\Debug\PRG282_Milestone2.PresentationLayer.frmNavigation.resources
+C:\Users\eric2\Documents\Eric Reyneke\2nd Year\PRG282\Milestone2_PRG282\obj\Debug\PRG282_Milestone2.PresentationLayer.frmRegistration.resources
+C:\Users\eric2\Documents\Eric Reyneke\2nd Year\PRG282\Milestone2_PRG282\obj\Debug\PRG282_Milestone2.PresentationLayer.frmRegisterStudent.resources
+C:\Users\eric2\Documents\Eric Reyneke\2nd Year\PRG282\Milestone2_PRG282\obj\Debug\PRG282_Milestone2.Properties.Resources.resources
+C:\Users\eric2\Documents\Eric Reyneke\2nd Year\PRG282\Milestone2_PRG282\obj\Debug\PRG282_Milestone2.csproj.GenerateResource.cache
+C:\Users\eric2\Documents\Eric Reyneke\2nd Year\PRG282\Milestone2_PRG282\obj\Debug\PRG282_Milestone2.csproj.CoreCompileInputs.cache
+C:\Users\eric2\Documents\Eric Reyneke\2nd Year\PRG282\Milestone2_PRG282\obj\Debug\PRG282_Milestone2.exe
+C:\Users\eric2\Documents\Eric Reyneke\2nd Year\PRG282\Milestone2_PRG282\obj\Debug\PRG282_Milestone2.pdb
+C:\Users\eric2\Documents\Eric Reyneke\2nd Year\PRG282\Milestone2_PRG282\obj\Debug\PRG282_Milestone2.PresentationLayer.frmModuleInfo.resources
